@@ -1,0 +1,26 @@
+{
+    "id": "D86F5983",
+    "path": "~/Documents/48h/R project/AnalyseData/API.R",
+    "project_path": "API.R",
+    "type": "r_source",
+    "hash": "1825053946",
+    "contents": "",
+    "dirty": true,
+    "created": 1747383254753.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "47,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1747383254,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1747383259391,
+    "read_only": false,
+    "read_only_alternatives": []
+}
